@@ -6,8 +6,8 @@ An interactive and responsive Quiz Application built with React. Users can test 
 - **Styling:** Tailwind CSS / Custom CSS
 - **Routing & State:** React Router, useState, useEffect
   
-  ## 📂 Project Structure
-  <pre>
+ ## 📂 Project Structure
+
 quiz-app/
 ├── public/
 │ └── index.html
@@ -27,7 +27,6 @@ quiz-app/
 ├── .gitignore
 ├── README.md
 └── package.json
-</pre>
 
 ## 🚀 Features
 
