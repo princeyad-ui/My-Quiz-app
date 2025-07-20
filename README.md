@@ -8,6 +8,7 @@ An interactive and responsive Quiz Application built with React. Users can test 
   
  ## 📂 Project Structure
 
+```
 quiz-app/
 ├── public/
 │ └── index.html
@@ -27,7 +28,7 @@ quiz-app/
 ├── .gitignore
 ├── README.md
 └── package.json
-
+```
 ## 🚀 Features
 
 - 📝 Multiple-choice questions
