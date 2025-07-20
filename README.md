@@ -7,6 +7,7 @@ An interactive and responsive Quiz Application built with React. Users can test 
 - **Routing & State:** React Router, useState, useEffect
   
   ## 📂 Project Structure
+  <pre>
 quiz-app/
 ├── public/
 │ └── index.html
@@ -26,6 +27,7 @@ quiz-app/
 ├── .gitignore
 ├── README.md
 └── package.json
+</pre>
 
 ## 🚀 Features
 
