@@ -11,10 +11,8 @@ const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-        {/* ✅ Redirect root URL to /home */}
+        
         <Route path="/" element={<Navigate to="/home" />} />
-
-        {/* ✅ Your defined routes */}
         <Route path="/navbar" element={<NavBar />} />
         <Route path="/home" element={<Home />} />
         <Route path="/quiz" element={<Quiz />} />
