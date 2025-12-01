@@ -8,7 +8,12 @@ const Home = () => {
     <div>
       <NavBar />
       <div className="container">
-        <img src="./public/Quiz logo.jpg" alt="img-logo" style={{backgroundcolor:"white"}} />
+        
+        <img
+          src="/quiz-logo.jpg"
+          alt="img-logo"
+          style={{ backgroundColor: "white" }}
+        />
         <p onClick={() => navigate("/Quiz")}> Start Quiz</p>
       </div>
     </div>
